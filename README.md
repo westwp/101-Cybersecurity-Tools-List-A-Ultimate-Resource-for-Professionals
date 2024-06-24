@@ -1467,6 +1467,7 @@ Our Cybersecurity Tool Guide, a compilation of 101+ indispensable tools, empower
 |                                                | Bulk Extractor            | [Bulk Extractor](https://github.com/simsong/bulk_extractor) |
 |                                                | CapAnalysis               | [CapAnalysis](https://github.com/xplico/CapAnalysis) |
 |                                                | Binwalk                   | [Binwalk](https://github.com/ReFirmLabs/binwalk) |
+|                                                | Stellastra DMARC Header Check | [Stellastra](https://stellastra.com/email-deliverability-check) |
 | **Social Engineering and Phishing**            |                           |                           |
 |                                                | SET (Social-Engineer Toolkit) | [SET](https://github.com/trustedsec/social-engineer-toolkit) |
 |                                                | Beef                      | [Beef](https://beefproject.com/) |
